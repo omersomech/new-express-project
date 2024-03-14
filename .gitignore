@@ -1,0 +1,44 @@
+.vercel
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Mac OS specific files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+
+# User-specific files
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Production build files
+build/
+dist/
+
+# OS generated files
+Thumbs.db
+.DS_Store?
+ehthumbs.db
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
